@@ -3,9 +3,8 @@ description: Wiki on what you can do in the server.
 theme: just-the-docs
 color_scheme: dark
 
-url: https://foxboxmc.github.io/wiki
-baseurl: "/wiki"
-url: "https://just-the-docs.com"
+baseurl: ""
+url: "https://wiki.foxboxmc.net"
 repository: FoxBoxMC/wiki
 
 logo: "/assets/images/logo.png"
