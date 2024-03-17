@@ -1,4 +1,4 @@
 ---
 title: Glooge
-format: Glooge
+layout: default
 ---
