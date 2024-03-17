@@ -1,5 +1,5 @@
 title: FoxBox Wiki
-description: Wiki on what you can do in the server.
+description: Wiki on what you can do on the server.
 theme: just-the-docs
 color_scheme: dark
 
@@ -13,10 +13,10 @@ heading_anchors: true
 
 permalink: pretty
 
-back_to_top: true
+back_to_top: false
 back_to_top_text: "Back to top"
 
-footer_content: "Made for FoxBoxMC. Visit the home page for more info at [FoxBoxMC.net](https://foxboxmc.net)."
+footer_content: "Made for FoxBoxMC. Visit the home page for more info at https://foxboxmc.net"
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
