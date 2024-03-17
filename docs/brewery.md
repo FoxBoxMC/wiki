@@ -1,6 +1,6 @@
 ---
 title: Brewery Guide
-layout: brewery
+layout: default
 ---
 
 i have achieved goonvana
