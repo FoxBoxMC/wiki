@@ -3,7 +3,6 @@ description: Wiki on what you can do in the server.
 theme: just-the-docs
 color_scheme: dark
 
-baseurl: ""
 url: "https://wiki.foxboxmc.net"
 repository: FoxBoxMC/wiki
 
