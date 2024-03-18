@@ -26,7 +26,7 @@ They aren't in spectator mode, this just means they are on a different server. Y
 ## How Long Do Server Updates Take?
 Updates happen as soon as all plugins are stable on that version. Some updates, such as 1.20.5 will break a lot of Minecraft's plugin functions, so they take a while. I will always run a test server beforehand to make sure everything works. If everything goes well, downtime lasts less than an hour. 
 
-## What is Court?
+## How Does the Court System Work?
 Court is our system to punish people with leniency. This system will stay in place for as long as we can manage it. Three strikes are lenient. After that, it's managed through stricter methods and will affect your chances of becoming staff. Someone unrelated to the ban will usually be the judge. The prosecutor would be the staff who caught you. You have the chance of pleading guilty or not guilty. It's usually better to plead guilty as you don't waste others' time. Once the court is done, appropriate action will be taken, such as your items being wiped if you x-rayed.
 
 ## What Modifications To Gameplay Are There?
