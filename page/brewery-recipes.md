@@ -1,7 +1,6 @@
 ---
-title: Recipes
+title: Brewery Recipes
 layout: default
-parent: Brewery Guide
 ---
 
 # Brewery Recipes
