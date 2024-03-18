@@ -6,6 +6,8 @@ layout: default
 # Brewery Recipes
 These are the recipes included on FoxBox for Brewery.
 
+You can find a tutorial on how to brew at the [Brewery Guide page.](https://wiki.foxboxmc.net/page/brewery-guide/) It includes every detail of the plugin.
+
 Some recipes are more difficult to master, others rather easy. That's also why some of the recipes here are kept a bit more vague.  
 
 ***
