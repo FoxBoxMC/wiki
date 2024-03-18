@@ -2,16 +2,17 @@
 title: Frequently Asked Questions
 layout: default
 nav_order: 2
+has_toc: false
 ---
 
 # Frequently Asked Questions
-Table of contents:
-1. a
-2. a
-3. a
-4. a
-5. a
-6. a
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## When Does the Server Restart?
 The servers restart every day at 6 AM GMT. You do not get kicked from the server as it automatically reconnects you.
