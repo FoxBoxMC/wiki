@@ -1,5 +1,5 @@
 ---
-title: Welcome to Docs
+title: Welcome to the Wiki
 layout: home
 nav_order: 1
 ---
@@ -7,7 +7,7 @@ nav_order: 1
 {: .note }
 This site is under heavy construction. Please be patient.
 
-# Welcome To FoxBox's Docs!
+# Welcome To FoxBox's Wiki!
 This site is used for quick guides which would be inconvenient to view in-game.
 You can find a lot of these pages using the quick menu. Others may be found on the Discord.
 On the top right of this page is a button to get to our Discord if needed.
