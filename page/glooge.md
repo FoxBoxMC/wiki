@@ -1,4 +1,0 @@
----
-title: Glooge
-layout: default
----
