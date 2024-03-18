@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Wiki
+title: Wiki Home
 layout: home
 nav_order: 1
 ---
