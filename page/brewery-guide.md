@@ -19,6 +19,8 @@ This new difficulty of brewing the good stuff makes only sense, if the players a
 
 Depending on the Recipe, some Steps may not be needed, the following instruction describes the common procedure of brewing.
 
+You can find recipes to brew with at the [Brewery Recipes page.](https://wiki.foxboxmc.net/page/brewery-recipes/) It includes all possible recipes in the server.
+
 ## Fermenting
 
 Step one consists of Fermenting the fresh Ingredients.
