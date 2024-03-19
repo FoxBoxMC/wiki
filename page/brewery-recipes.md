@@ -13,7 +13,7 @@ Some recipes are more difficult to master, others rather easy. That's also why s
 ***
 
 
-| Recipe       | Ingredients                | Boiling Time | Distilling | Ageing | Alc | Effects |
+| Recipe | Ingredients | Boiling Time | Distilling | Ageing | Alc | Effects |
 |-------------|-------------|-----|-----|-----|-----|---|
 | Beer | 6 Wheat | 8 Minutes | No  | 3 Years | I | |
 | Wheatbeer | 3 Wheat | 8 Minutes | No  | 2 Years | I | |
