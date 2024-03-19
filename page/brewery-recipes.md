@@ -34,5 +34,5 @@ Some recipes are more difficult to master, others rather easy. That's also why s
 | Potato Soup | 5 Potatoes<br>Some Grass | Short | No  | No | | + |
 | Coffee | Lots of Cocoa Beans<br>2 Milk Buckets | Short | No | No | | ++ |
 | Eggnog | 5 Eggs<br>A little sugar<br>1 Milk Bucket | Short | No | Short | I | |
-| Cheese | 7 Milk Buckets<br>1 Lava Bucket<br>1 Dragon's Breath | 40 Minutes | No | Very Long | I | |
+| Cheese | 7 Milk Buckets<br>1 Lava Bucket<br>1 Dragon's Breath | 40 Minutes | No | Very Long | I | ++-- |
 
