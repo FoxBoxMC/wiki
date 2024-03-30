@@ -25,7 +25,7 @@ Some recipes are more difficult to master, others rather easy. That's also why s
 | Apple Liquor | Lots of Apple | Long | Yes | 6 Years | II | |
 | Whiskey | Wheat | 1 min. per Wheat | Yes | Very Long | III | |
 | Rum | Lots of Sugar Cane | Short | Yes | Long | IV | + |
-| Vodka | A Sixth of a Stack Potatoes | Long | Yes | No | III | - |
+| Vodka | 10 Potatoes | Long | Yes | No | III | - |
 | Mushroom Vodka | Potatoes, Mushrooms | Very Long | Yes | No | II | +- |
 | Gin | 9 Wheat<br>Some blue -flowers<br>Apple | Short | Yes | No | III  | |
 | Tequila | Some Cactus | Long | Yes | Long | III | |
